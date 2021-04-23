@@ -1,0 +1,37 @@
+SERVER-NAME: "Factions"
+MESSAGES:
+  FLY-DISABLED: "&eYour flight has been &cdisabled"
+  FLY-ENABLED: "&eYour flight has been &aenabled"
+  NOPERMISSION: "&cYou do not have permission to execute this command"
+  ACTION-DENY: "&cYou cannot do this while in staff mode!"
+  VANISH-ENABLED: "&eYour vanish has been &aenabled"
+  VANISH-DISABLED: "&eYour vanish has been &cdisabled"
+  STAFF-ENABLED: "&eYou have &aenabled &estaff mode"
+  STAFF-DISABLED: "&eYou have &cdisabled &estaff mode"
+  STAFFCHAT-DISABLED: "&eYour staff chat has been &cdisabled"
+  STAFFCHAT-ENABLED: "&eYour staff chat has been &aenabled"
+  STAFFCHAT-PREFIX: "&e[&c*&e]"
+  NOTIFICATION-PREFIX: "&6[Staff]"
+  STAFFJOIN: "&6 test"
+STAFFITEMS:
+  COMPASS:
+    ENABLED: true
+    SLOT: 0
+  WAND:
+    ENABLED: true
+    SLOT: 1
+  FREEZE:
+    ENABLED: true
+    SLOT: 4
+  INSPECT:
+    ENABLED: true
+    SLOT: 2
+  STAFFONLINE:
+    ENABLED: false
+    SLOT: 3
+  VANISH:
+    ENABLED: true
+    SLOT: 6
+  RANDOMTP:
+    ENABLED: true
+    SLOT: 7

@@ -1,0 +1,19 @@
+name: cStaff
+version: ${project.version}
+main: me.agro.cstaff.main
+api-version: 1.12
+commands:
+  staff:
+    description: Enabled or disable staff mode
+  fly:
+    description: Enabled or disable fly.
+  staffchat:
+    aliases:
+      - sc
+      - staffchat
+    description: Enable or disable staffchat.
+  vanish:
+    aliases:
+      - v
+      - vanish
+    description: Hide yourself from other players.
